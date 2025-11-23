@@ -77,3 +77,5 @@ Minimal dependencies (adjust to your setup):
 
 ```bash path=null start=null
 pip install ultralytics opencv-python tqdm matplotlib pyyaml jupyter
+
+Dataset that was used (https://www.kaggle.com/datasets/ibrahimagabardiop/pestaidatasetv2)
