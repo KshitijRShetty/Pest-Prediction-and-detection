@@ -1,0 +1,24 @@
+names:
+- Adristyrannus
+- Aphids
+- Beetle
+- Bugs
+- Cabbage Looper
+- Cicadellidae
+- Cutworm
+- Earwig
+- FieldCricket
+- Grasshopper
+- Mediterranean fruit fly
+- Mites
+- RedSpider
+- Riptortus
+- Slug
+- Snail
+- Thrips
+- Weevil
+- Whitefly
+nc: 19
+test: C:\Users\kshit\Downloads\prject\data\det_pseudo\test
+train: C:\Users\kshit\Downloads\prject\data\det_pseudo\train
+val: C:\Users\kshit\Downloads\prject\data\det_pseudo\val
